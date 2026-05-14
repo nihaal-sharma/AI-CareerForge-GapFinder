@@ -1,16 +1,25 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Gap Finder 
+is an interview readiness tool built for the AI CareerForge Hackathon. 
+It allows students to objectively measure their preparation across technical skills, resumes, and communication in less than 2 minutes. 
+Project Links
+# Live Working Project:
+not hosted
+# Demo Video (Pitch): 
+[INSERT YOUR GOOGLE DRIVE/YOUTUBE LINK HERE]
+# Core FeaturesLightning Round Assessment:
+A rapid-fire interface to gauge technical and behavioral readiness. 
+# Interview Readiness Score: 
+A clear 0-100 metric indicating the candidate's current preparation level.  
+# Actionable Feedback:
+Personalized improvement plans that identify specific gaps before facing real recruiters. 
+# Technical StackFrontend:
+Next.js and Tailwind CSS.  
+# Interactions: 
+Framer Motion.
+# Deployment: 
+not deployed.  
+# Evaluation Criteria AddressedImpact: 
+Effectively measures preparation in a 2-minute window.  
+# Technical Execution: 
+Clean code and functional prototype.  
+User Experience: Simple, intuitive design for quick navigation.
