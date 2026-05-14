@@ -5,7 +5,7 @@ Project Links
 # Live Working Project:
 not hosted
 # Demo Video (Pitch): 
-[INSERT YOUR GOOGLE DRIVE/YOUTUBE LINK HERE]
+(https://drive.google.com/drive/folders/1a8NAk9daj8s-NwuJgPXDdPJnAwGUj5uN?usp=sharing)
 # Core FeaturesLightning Round Assessment:
 A rapid-fire interface to gauge technical and behavioral readiness. 
 # Interview Readiness Score: 
