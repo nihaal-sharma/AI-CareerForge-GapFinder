@@ -1,7 +1,0 @@
-Role: You are an expert Full-Stack Developer specializing in high-performance React/Next.js applications and AI integrations.Objective: Build a working prototype for the "AI CareerForge" Hackathon. The tool is an "Interview Gap-Finder" that assesses a student's readiness in under 2 minutes.  Core Requirements:Tinder-style UI: Create a "Lightning Round" component using framer-motion for swipable cards. Users swipe Left (Incorrect/No) or Right (Correct/Yes) on 10 rapid-fire technical snippets and resume-bullet scenarios.
-2. Resume Upload: Add a simple PDF/Text upload area that simulates "parsing" to identify keyword gaps.
-3. The 2-Minute Logic: Ensure the entire flow (Role Selection -> Swipe Round -> Resume Scan -> Results) is timed to take exactly 90–120 seconds.
-4. Scoring Engine: Implement a calculation for an "Interview Readiness Score" (0-100) based on swipe accuracy and resume data.
-5. Actionable Output: Generate a "Personalized Improvement Plan" with 3 specific, non-generic steps based on the user's performance.  Tech Stack:
-* Frontend: Next.js, Tailwind CSS (for a clean, professional "UnsaidTalks" aesthetic).  Animations: Framer Motion (for the swipe effect).
-* Deployment Ready: Ensure the code is structured for an easy push to Vercel.  Deliverable: Provide the complete React component code, styles, and a mock AI logic function that I can run immediately to show a working MVP.
